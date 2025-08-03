@@ -1,5 +1,6 @@
 # 🔩 Torque Calculation Project
 
+# First Part of The Task:
 This project demonstrates how to calculate torque based on given forces and distances.
 ---
 Each motor is connected to a segment of known length, and the same weight (1 kg) is applied at the end of each segment.
