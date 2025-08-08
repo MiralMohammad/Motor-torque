@@ -5,7 +5,7 @@ This project demonstrates how to calculate torque based on given forces and dist
 ---
 Each motor is connected to a segment of known length, and the same weight (1 kg) is applied at the end of each segment.
 
----
+
 
 ## ⚙️ Torque Values
 
@@ -43,7 +43,7 @@ Yes ✅, adding gears will multiply the torque output of the motors, making them
 3. **Energy loss** 🔋 — Due to friction between gear teeth.  
 4. **More complex design** 🛠️ — Requires additional installation and maintenance.
 
----
+
 
 ## 3️⃣ Solutions to the Drawbacks
 1. Use **lightweight materials** for gears (e.g., carbon fiber or reinforced plastic).  
