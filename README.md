@@ -11,6 +11,6 @@ Each motor is connected to a segment of known length, and the same weight (1 kg)
 
 | Motor   | Distance (m)               | Torque (N·m) |
 |---------|----------------------------|--------------|
-| Motor 1 | 0.04                       | 0.04*1Kg = 0.04 Kg·cm         |
-| Motor 2 | 0.04 + 0.10 = 0.14         | 0.14*1Kg = 0.14 Kg·cm         |
-| Motor 3 | 0.04 + 0.10 + 0.15 = 0.29  | 0.29*1Kg = 0.29 Kg·cm         |
+| Motor 1 | 4                    | 0.04*1Kg = 4 Kg·cm         |
+| Motor 2 | 4 + 10 = 14         | 0.14*1Kg = 14 Kg·cm         |
+| Motor 3 | 4 + 10 + 15 = 29    | 0.29*1Kg = 29 Kg·cm         |
