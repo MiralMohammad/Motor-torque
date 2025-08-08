@@ -32,12 +32,10 @@ Selection was based on ensuring that each servo’s stall torque is **greater th
 # Second Part of The Task:
 
 
-# ⚙️ Servo Motor Feasibility with Gears
-
 ## 1️⃣ Can the selected motors lift the weight if gears are added?
 Yes ✅, adding gears will multiply the torque output of the motors, making them capable of lifting the required weight even if it exceeds the motor’s direct capacity.
 
----
+
 
 ## 2️⃣ Possible Drawbacks
 1. **Reduced speed** ⏳ — Increasing torque with gears will lower movement speed.  
